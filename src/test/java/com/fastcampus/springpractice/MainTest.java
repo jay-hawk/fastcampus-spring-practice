@@ -1,9 +1,7 @@
-package com.fastcampus.javaoop;
+package com.fastcampus.springpractice;
 
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
 class MainTest {
 
     @Test
